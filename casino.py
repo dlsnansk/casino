@@ -72,8 +72,8 @@ def spin():
         print()
 
         print('''
-[  ENTER -> START  ]
-[  ESC   -> QUIT   ]
+[  ENTER -> SPIN  ]
+[  ESC   -> QUIT  ]
 ''')
 
         while True:
